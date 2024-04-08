@@ -1,0 +1,30 @@
+# default style is 
+# الوان هادية
+print(plt.style.use("bmh")) 
+# الوان فاقعة
+print(plt.style.use("classic"))
+# الوان غامقة
+print(plt.style.use("dark_background")) 
+print(plt.style.use("fivethirtyeight"))
+print(plt.style.use("ggplot"))
+# بستخدمها في الطباعة مثلا 
+print(plt.style.use("greyscale"))
+print(plt.style.use("seaborn-bright"))
+# عمي الالوان
+print(plt.style.use("seaborn-colorblind"))
+# ازرق فاتح
+print(plt.style.use("seaborn-dark"))
+# ازرق غامق
+print(plt.style.use("seaborn-dark-palette"))
+# ازرق فاقع
+print(plt.style.use("seaborn-darkgrid"))
+print(plt.style.use("seaborn-deep"))
+print(plt.style.use("seaborn-muted"))
+print(plt.style.use("seaborn-notebook"))
+print(plt.style.use("seaborn-paper"))
+print(plt.style.use("seaborn-pastel"))
+print(plt.style.use("seaborn-poster"))
+print(plt.style.use("seaborn-talk"))
+print(plt.style.use("seaborn-ticks"))
+print(plt.style.use("seaborn-white"))
+print(plt.style.use("seaborn-whitegrid"))
