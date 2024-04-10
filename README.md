@@ -1,8 +1,13 @@
-# EDA Repository
+## EDA Repository
 
 Welcome to the 'EDA' (Exploratory Data Analysis) repository!
 
 This repository is dedicated to the exploration and analysis of datasets using Python. Whether you're a data scientist, analyst, or enthusiast, here you'll find resources, examples, and techniques for uncovering insights from data.
+
+## Project
+
+["Airbnb Listing EDA"](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA)
+["Dashboard"](https://github.com/elsayedelmandoh/dashboard_ElectroPI)
 
 ## Contributing
 
